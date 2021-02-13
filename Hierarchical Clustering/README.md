@@ -1,4 +1,4 @@
-### Hierarchical Clustering using MNIST Database
+# Hierarchical Clustering using MNIST Database
 
 Based on Hierarchical clustering, I have used the MNIST dataset which is a dataset for handwritten images.
 1. First, I have importes the libraries of python and scikit-learn.
