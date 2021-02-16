@@ -1,7 +1,7 @@
 # Hierarchical Clustering using MNIST Database
 
 Based on Hierarchical clustering, I have used the MNIST dataset which is a dataset for handwritten images.
-1. First, I have importes the libraries of python and scikit-learn.
+1. First, I have imported the libraries of python and scikit-learn.
 2. After that, I have imported the dataset of MNIST. 
 3. Then, I have carried out embedding in 2D using spectral embedding. I have carried out the merges using different linkage criteria: ward linkage, average linkage, complete linkage and single linkage.
 4. Ward linkage function specifying the distance between two clusters is computed as the increase in the "error sum of squares" (ESS) after fusing two clusters into a single cluster.
