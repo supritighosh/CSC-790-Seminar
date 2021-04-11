@@ -10,4 +10,5 @@ Started with the fundamental concept computer vision and machine learning, stude
 
 Learning Outcome:<br>
 - Hierarchical Clustering [here](/Hierarchical%20Clustering) <br>
-- Image Stitching [here](/Image%20Stitching)
+- Image Stitching [here](/Image%20Stitching)<br>
+- Feature Selection [here](Feature%20Selection)

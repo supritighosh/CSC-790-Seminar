@@ -1,4 +1,4 @@
-## Image Stitching
+### Image Stitching
 
 Image stitching with OpenCV panorama consists of following steps:
 

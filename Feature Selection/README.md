@@ -1,8 +1,8 @@
-# Feature Selection
+### Feature Selection
 
-Dataset: Breast Cancer Wisconsin Dataset
+Dataset: Breast Cancer Wisconsin Dataset<br>
 
-Methods used:
-i. Recursive Feature Elimination (RFE) with Random Forest
+Methods used:<br>
+i. Recursive Feature Elimination (RFE) with Random Forest<br>
 ii. Recursive Feature Elimination (RFE) with cross validation and random forest classification
 
