@@ -16,4 +16,4 @@ Learning Outcome:<br>
 - [Neural Network](Neural%20Network)
 
 Presentation:
-- Presentation on [Deep Learning](Deep_Learning.pdf)
+- Presentation on [Deep Learning](https://github.com/supritighosh/CSC-790-Seminar/blob/main/Talk/Deep_Learning.pdf)
